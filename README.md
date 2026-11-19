@@ -10,7 +10,7 @@
 - [x] [**День 01:** Вступ до SDLC та класичні моделі розробки ПЗ](./manual-qa/day-01.md)
 - [x] [**День 02:** Занурення в Agile, Agile-маніфест, Scrum та Kanban](./manual-qa/day-02.md)
 - [x] [**День 03:** Ролі та Scrum-мітинги](./manual-qa/day-03.md)
-- [ ] [**День 04:** Артефакти Scrum та правила їх приймання (DoD / DoR)](./manual-qa/day-04.md)
+- [x] [**День 04:** Артефакти Scrum та критерії готовності і приймання задач (DoR / DoD)](./manual-qa/day-04.md)
 - [ ] [**День 05:** Налаштування та кастомізація Jira](./manual-qa/day-05.md)
 - [ ] [**День 06:** Написання User Story та Acceptance Criteria](./manual-qa/day-06.md)
 - [ ] [**День 07:** Практика з тестування вимог та макетів у Figma](./manual-qa/day-07.md)
