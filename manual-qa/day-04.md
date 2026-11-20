@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 Порівняльна матриця: DoR vs DoD
+### 📊 Порівняльна таблиця: DoR vs DoD
 
 | Критерій | Definition of Ready (DoR) | Definition of Done (DoD) |
 | :--- | :--- | :--- |
