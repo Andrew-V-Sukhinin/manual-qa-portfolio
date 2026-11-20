@@ -57,8 +57,9 @@
 
 ## 🛠️ 2. Практична частина: Налаштування дошки `GreenStore E-Commerce` (`GSE`)
 
-* **Налаштування простору та профілю:** Обрано проєкт **GreenStore E-Commerce** (`GSE`), оновлено профіль (*Andrew Sukhinin*, `AS`) та переведено інтерфейс на `English (US)`.
-* **Кастомізація дошки та спринту:** Сформовано колонки *To Do*, *In Progress*, *Code Review*, *In Testing* та *Done* у межах *GSE Sprint 1*, наповнивши картки різних типів (зокрема `GSE-7`, `GSE-8`, `GSE-11`, `GSE-12` у *To Do*, `GSE-5` у *In Progress* та виконані картки `GSE-1`–`GSE-4` у *Done*).
+* **Конфігурація робочого простору:** Для практики використано проєкт **GreenStore E-Commerce** (`GSE`) з англомовним інтерфейсом (`English (US)`) та оформленим профілем учасника (*Andrew Sukhinin*, `AS`).
+* **Кастомізація дошки та спринту:** Налаштовано колонки *To Do*, *In Progress*, *Code Review*, *In Testing* та *Done* у межах *GSE Sprint 1*, а також структуровано картки різних типів (зокрема `GSE-7`, `GSE-8`, `GSE-11`, `GSE-12` у *To Do*, `GSE-5` у *In Progress* та виконані картки `GSE-1`–`GSE-4` у *Done*).
+
 
 ![Налаштована дошка Jira для проєкту GreenStore E-Commerce (GSE Sprint 1)](/images/day-05-jira-board.png)
 
